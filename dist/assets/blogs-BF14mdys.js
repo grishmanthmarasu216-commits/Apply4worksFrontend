@@ -1,0 +1,2 @@
+var e=[{slug:`ats-resume-mistakes-to-avoid`,title:`ATS Resume Mistakes To Avoid`,category:`ATS`,excerpt:`Learn the top 5 mistakes that get your resume instantly rejected by Applicant Tracking Systems.`,date:`2026-06-22T00:00:00Z`,author:`Apply4Works Editorial`,content:`## Stop using fancy columns
+Columns confuse the ATS...`}];export{e as default};
