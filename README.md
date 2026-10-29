@@ -607,8 +607,8 @@ This project does not currently have a dedicated top-level open-source license f
 ## 20. Author
 
 **Apply4Works Developer**
-- **GitHub:** [Your GitHub Profile](https://github.com/)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/)
+- **GitHub:** [Grishmanth's GitHub Profil](https://github.com/grishmanthmarasu216-commits)
+- **LinkedIn:** [Grishmanth's LinkedIn Profile](https://www.linkedin.com/in/grishmanth-marasu?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Email:** `your-email@example.com`
 
 ---
